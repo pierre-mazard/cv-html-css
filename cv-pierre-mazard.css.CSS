@@ -1,0 +1,47 @@
+body {
+    background-image:url(https://free4kwallpapers.com/uploads/originals/2022/07/14/james-webb--cosmic-cliffs-wallpaper.jpg);
+    opacity: 10;
+}
+h1 {
+    color:beige;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.motiv {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    font-size: 15px;
+    font-style: italic;
+    
+}
+.infoperso {
+    color: beige;
+    text-align: right;
+    font-weight: 550;
+    
+}
+.titre {
+    color: beige;
+    text-align: center;
+    text-decoration: underline;
+    font-size: x-large;
+}
+h3 {
+    color: azure;
+    text-decoration: double;
+    text-decoration: underline;
+}
+p {
+    color: azure;
+    font-style: italic;
+    font-size:larger ;
+
+}
+li {
+    color: azure;
+
+}
+a {
+    color: rgb(0, 255, 242);
+}
